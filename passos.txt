@@ -1,0 +1,11 @@
+.venv\Scripts\activate
+
+python src/stitcher.py --input data/events.csv --output output/journeys.csv
+
+python src/analytics.py --input output/journeys.csv --output output/metrics.json
+
+python src/insights.py --input output/metrics.json --output output/insights.json --strategy few-shot
+
+python src/report.py --input output/insights.json --output output/weekly_report.md
+
+python evaluate.py --data data/events.csv --output output/evaluation_report.json

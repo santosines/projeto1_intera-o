@@ -1,0 +1,501 @@
+{
+    "traffic_general": {
+        "total_unique_visitors": 2751,
+        "avg_visit_duration_seconds": 2325.5543438749546,
+        "visitors_per_day": {
+            "2025-03-10": 376,
+            "2025-03-11": 334,
+            "2025-03-12": 394,
+            "2025-03-13": 398,
+            "2025-03-14": 376,
+            "2025-03-15": 461,
+            "2025-03-16": 412
+        }
+    },
+    "zones": {
+        "Z_E2": {
+            "total_traffic": 1698,
+            "avg_dwell_time": 10.998864281658149,
+            "stop_rate": 0.8186101295641932
+        },
+        "Z_C1": {
+            "total_traffic": 2300,
+            "avg_dwell_time": 20.639950029587744,
+            "stop_rate": 0.9169565217391304
+        },
+        "Z_C2": {
+            "total_traffic": 2244,
+            "avg_dwell_time": 20.31063640409435,
+            "stop_rate": 0.9171122994652406
+        },
+        "Z_C3": {
+            "total_traffic": 1993,
+            "avg_dwell_time": 21.48131323559777,
+            "stop_rate": 0.9262418464626192
+        },
+        "Z_E1": {
+            "total_traffic": 1743,
+            "avg_dwell_time": 11.109965002762939,
+            "stop_rate": 0.7911646586345381
+        },
+        "Z_N4": {
+            "total_traffic": 779,
+            "avg_dwell_time": 175.7535301668806,
+            "stop_rate": 0.938382541720154
+        },
+        "Z_S4": {
+            "total_traffic": 634,
+            "avg_dwell_time": 183.79817351598174,
+            "stop_rate": 0.9511041009463722
+        },
+        "Z_N9": {
+            "total_traffic": 970,
+            "avg_dwell_time": 173.2356807511737,
+            "stop_rate": 0.9123711340206185
+        },
+        "Z_N6": {
+            "total_traffic": 943,
+            "avg_dwell_time": 173.18109054527264,
+            "stop_rate": 0.9162248144220573
+        },
+        "Z_S1": {
+            "total_traffic": 623,
+            "avg_dwell_time": 181.1004608294931,
+            "stop_rate": 0.9454253611556982
+        },
+        "Z_N5": {
+            "total_traffic": 1029,
+            "avg_dwell_time": 169.641568627451,
+            "stop_rate": 0.9115646258503401
+        },
+        "Z_S5": {
+            "total_traffic": 817,
+            "avg_dwell_time": 102.87628205128205,
+            "stop_rate": 0.95593635250918
+        },
+        "Z_N10": {
+            "total_traffic": 1045,
+            "avg_dwell_time": 171.23669579030977,
+            "stop_rate": 0.9014354066985646
+        },
+        "Z_N3": {
+            "total_traffic": 887,
+            "avg_dwell_time": 173.64721627408994,
+            "stop_rate": 0.9244644870349493
+        },
+        "Z_N1": {
+            "total_traffic": 891,
+            "avg_dwell_time": 170.97541899441342,
+            "stop_rate": 0.9135802469135802
+        },
+        "Z_N8": {
+            "total_traffic": 964,
+            "avg_dwell_time": 173.5284625728373,
+            "stop_rate": 0.9253112033195021
+        },
+        "Z_N2": {
+            "total_traffic": 822,
+            "avg_dwell_time": 175.26859504132233,
+            "stop_rate": 0.9197080291970803
+        },
+        "Z_S3": {
+            "total_traffic": 756,
+            "avg_dwell_time": 180.3480625424881,
+            "stop_rate": 0.9312169312169312
+        },
+        "Z_N7": {
+            "total_traffic": 828,
+            "avg_dwell_time": 176.26894158473107,
+            "stop_rate": 0.9263285024154589
+        },
+        "Z_S6": {
+            "total_traffic": 539,
+            "avg_dwell_time": 185.186230248307,
+            "stop_rate": 0.9666048237476809
+        },
+        "Z_CK": {
+            "total_traffic": 1538,
+            "avg_dwell_time": 159.8777282328092,
+            "stop_rate": 0.8504551365409623
+        },
+        "Z_S2": {
+            "total_traffic": 398,
+            "avg_dwell_time": 191.27580372250424,
+            "stop_rate": 0.9673366834170855
+        },
+        "Z_S7": {
+            "total_traffic": 492,
+            "avg_dwell_time": 184.7620320855615,
+            "stop_rate": 0.975609756097561
+        }
+    },
+    "funnel": {
+        "total_entrants": 2751,
+        "converted_to_checkout": 2598,
+        "conversion_rate": 0.9443838604143948
+    },
+    "anomalies": [
+        {
+            "zone": "Z_S6",
+            "hour": 15,
+            "observed": 22,
+            "expected": 6.666666666666667,
+            "deviation": 2.3
+        },
+        {
+            "zone": "Z_S2",
+            "hour": 13,
+            "observed": 19,
+            "expected": 5.833333333333333,
+            "deviation": 2.2571428571428576
+        },
+        {
+            "zone": "Z_S7",
+            "hour": 9,
+            "observed": 6,
+            "expected": 2.0,
+            "deviation": 2.0
+        },
+        {
+            "zone": "Z_N9",
+            "hour": 15,
+            "observed": 38,
+            "expected": 13.666666666666666,
+            "deviation": 1.780487804878049
+        },
+        {
+            "zone": "Z_S4",
+            "hour": 21,
+            "observed": 5,
+            "expected": 1.8,
+            "deviation": 1.777777777777778
+        },
+        {
+            "zone": "Z_S2",
+            "hour": 20,
+            "observed": 8,
+            "expected": 3.0,
+            "deviation": 1.6666666666666667
+        },
+        {
+            "zone": "Z_S7",
+            "hour": 15,
+            "observed": 14,
+            "expected": 5.5,
+            "deviation": 1.5454545454545454
+        },
+        {
+            "zone": "Z_S4",
+            "hour": 15,
+            "observed": 18,
+            "expected": 7.166666666666667,
+            "deviation": 1.511627906976744
+        },
+        {
+            "zone": "Z_N4",
+            "hour": 21,
+            "observed": 6,
+            "expected": 2.4,
+            "deviation": 1.5
+        },
+        {
+            "zone": "Z_S2",
+            "hour": 9,
+            "observed": 5,
+            "expected": 2.0,
+            "deviation": 1.5
+        },
+        {
+            "zone": "Z_S2",
+            "hour": 21,
+            "observed": 3,
+            "expected": 1.2,
+            "deviation": 1.5
+        },
+        {
+            "zone": "Z_S7",
+            "hour": 11,
+            "observed": 20,
+            "expected": 8.0,
+            "deviation": 1.5
+        },
+        {
+            "zone": "Z_S1",
+            "hour": 9,
+            "observed": 10,
+            "expected": 4.166666666666667,
+            "deviation": 1.4
+        },
+        {
+            "zone": "Z_N1",
+            "hour": 15,
+            "observed": 29,
+            "expected": 12.166666666666666,
+            "deviation": 1.3835616438356166
+        },
+        {
+            "zone": "Z_N10",
+            "hour": 14,
+            "observed": 44,
+            "expected": 19.0,
+            "deviation": 1.3157894736842106
+        },
+        {
+            "zone": "Z_N2",
+            "hour": 9,
+            "observed": 13,
+            "expected": 5.666666666666667,
+            "deviation": 1.2941176470588234
+        },
+        {
+            "zone": "Z_S2",
+            "hour": 18,
+            "observed": 13,
+            "expected": 5.666666666666667,
+            "deviation": 1.2941176470588234
+        },
+        {
+            "zone": "Z_N2",
+            "hour": 15,
+            "observed": 24,
+            "expected": 10.5,
+            "deviation": 1.2857142857142858
+        },
+        {
+            "zone": "Z_N10",
+            "hour": 15,
+            "observed": 38,
+            "expected": 16.833333333333332,
+            "deviation": 1.2574257425742577
+        },
+        {
+            "zone": "Z_S5",
+            "hour": 21,
+            "observed": 4,
+            "expected": 1.8,
+            "deviation": 1.2222222222222223
+        },
+        {
+            "zone": "Z_S5",
+            "hour": 21,
+            "observed": 4,
+            "expected": 1.8,
+            "deviation": 1.2222222222222223
+        },
+        {
+            "zone": "Z_S6",
+            "hour": 21,
+            "observed": 5,
+            "expected": 2.25,
+            "deviation": 1.2222222222222223
+        },
+        {
+            "zone": "Z_S1",
+            "hour": 14,
+            "observed": 22,
+            "expected": 10.0,
+            "deviation": 1.2
+        },
+        {
+            "zone": "Z_N10",
+            "hour": 21,
+            "observed": 4,
+            "expected": 1.8333333333333333,
+            "deviation": 1.181818181818182
+        },
+        {
+            "zone": "Z_S2",
+            "hour": 20,
+            "observed": 7,
+            "expected": 3.25,
+            "deviation": 1.1538461538461537
+        },
+        {
+            "zone": "Z_S1",
+            "hour": 18,
+            "observed": 29,
+            "expected": 13.5,
+            "deviation": 1.1481481481481481
+        },
+        {
+            "zone": "Z_N9",
+            "hour": 21,
+            "observed": 5,
+            "expected": 2.3333333333333335,
+            "deviation": 1.1428571428571428
+        },
+        {
+            "zone": "Z_C1",
+            "hour": 21,
+            "observed": 22,
+            "expected": 10.333333333333334,
+            "deviation": 1.129032258064516
+        },
+        {
+            "zone": "Z_N3",
+            "hour": 14,
+            "observed": 28,
+            "expected": 13.166666666666666,
+            "deviation": 1.1265822784810127
+        },
+        {
+            "zone": "Z_S6",
+            "hour": 20,
+            "observed": 12,
+            "expected": 5.666666666666667,
+            "deviation": 1.1176470588235292
+        },
+        {
+            "zone": "Z_S2",
+            "hour": 14,
+            "observed": 13,
+            "expected": 6.166666666666667,
+            "deviation": 1.1081081081081081
+        },
+        {
+            "zone": "Z_S6",
+            "hour": 15,
+            "observed": 16,
+            "expected": 7.666666666666667,
+            "deviation": 1.0869565217391302
+        },
+        {
+            "zone": "Z_N8",
+            "hour": 15,
+            "observed": 34,
+            "expected": 16.333333333333332,
+            "deviation": 1.0816326530612246
+        },
+        {
+            "zone": "Z_E2",
+            "hour": 21,
+            "observed": 10,
+            "expected": 4.833333333333333,
+            "deviation": 1.0689655172413794
+        },
+        {
+            "zone": "Z_N4",
+            "hour": 19,
+            "observed": 30,
+            "expected": 14.666666666666666,
+            "deviation": 1.0454545454545456
+        },
+        {
+            "zone": "Z_N5",
+            "hour": 15,
+            "observed": 33,
+            "expected": 16.166666666666668,
+            "deviation": 1.0412371134020617
+        },
+        {
+            "zone": "Z_C2",
+            "hour": 21,
+            "observed": 22,
+            "expected": 11.0,
+            "deviation": 1.0
+        },
+        {
+            "zone": "Z_N1",
+            "hour": 9,
+            "observed": 13,
+            "expected": 6.5,
+            "deviation": 1.0
+        },
+        {
+            "zone": "Z_N6",
+            "hour": 21,
+            "observed": 4,
+            "expected": 2.0,
+            "deviation": 1.0
+        },
+        {
+            "zone": "Z_S3",
+            "hour": 21,
+            "observed": 4,
+            "expected": 2.0,
+            "deviation": 1.0
+        },
+        {
+            "zone": "Z_S6",
+            "hour": 9,
+            "observed": 7,
+            "expected": 3.5,
+            "deviation": 1.0
+        },
+        {
+            "zone": "Z_S7",
+            "hour": 21,
+            "observed": 2,
+            "expected": 1.0,
+            "deviation": 1.0
+        },
+        {
+            "zone": "Z_CK",
+            "hour": 15,
+            "observed": 53,
+            "expected": 26.666666666666668,
+            "deviation": 0.9874999999999999
+        },
+        {
+            "zone": "Z_E1",
+            "hour": 15,
+            "observed": 56,
+            "expected": 28.333333333333332,
+            "deviation": 0.9764705882352942
+        },
+        {
+            "zone": "Z_S3",
+            "hour": 14,
+            "observed": 21,
+            "expected": 10.666666666666666,
+            "deviation": 0.9687500000000001
+        },
+        {
+            "zone": "Z_C2",
+            "hour": 15,
+            "observed": 75,
+            "expected": 38.333333333333336,
+            "deviation": 0.9565217391304347
+        },
+        {
+            "zone": "Z_S1",
+            "hour": 10,
+            "observed": 14,
+            "expected": 7.166666666666667,
+            "deviation": 0.9534883720930232
+        },
+        {
+            "zone": "Z_S5",
+            "hour": 14,
+            "observed": 27,
+            "expected": 13.833333333333334,
+            "deviation": 0.9518072289156626
+        },
+        {
+            "zone": "Z_S4",
+            "hour": 19,
+            "observed": 25,
+            "expected": 12.833333333333334,
+            "deviation": 0.9480519480519479
+        },
+        {
+            "zone": "Z_CK",
+            "hour": 21,
+            "observed": 17,
+            "expected": 8.833333333333334,
+            "deviation": 0.9245283018867924
+        }
+    ],
+    "top_sequences": {
+        "Z_C1": 30,
+        "Z_E2": 23,
+        "Z_CK": 21,
+        "Z_E1": 21,
+        "Z_C2": 12,
+        "Z_E2 -> Z_C1": 9,
+        "Z_C3": 7,
+        "Z_E1 -> Z_C1": 7,
+        "Z_N6": 6,
+        "Z_N1": 5
+    }
+}
