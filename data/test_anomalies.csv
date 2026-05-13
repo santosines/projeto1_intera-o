@@ -1,0 +1,13 @@
+event_id,timestamp,zone_id,event_type,duration_s,gender,age_range
+e_01,2025-03-10 10:00:00,Z_FAT,entry,0,M,adult
+e_02,2025-03-10 10:05:00,Z_FAT,exit,0,M,adult
+e_03,2025-03-10 10:10:00,Z_FAT,entry,0,F,adult
+e_04,2025-03-10 10:15:00,Z_FAT,exit,0,F,adult
+e_05,2025-03-10 10:20:00,Z_FAT,entry,0,M,senior
+e_06,2025-03-10 10:25:00,Z_FAT,exit,0,M,senior
+e_07,2025-03-10 10:30:00,Z_FAT,entry,0,F,senior
+e_08,2025-03-10 10:35:00,Z_FAT,exit,0,F,senior
+e_09,2025-03-10 10:40:00,Z_FAT,entry,0,M,teenager
+e_10,2025-03-10 10:45:00,Z_FAT,exit,0,M,teenager
+e_11,2025-03-11 10:00:00,Z_FAT,entry,0,M,adult
+e_12,2025-03-11 10:05:00,Z_FAT,exit,0,M,adult
