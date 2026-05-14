@@ -1,0 +1,54 @@
+{
+    "insights": [
+        {
+            "id": "INS_001",
+            "categoria": "trafego",
+            "titulo": "Zona de maior fluxo de clientes",
+            "observacao": "A zona Z_C1 registou um total de 30 sequências de clientes.",
+            "implicacao": "Isso pode indicar que a zona está bem localizada e atrativa para os clientes.",
+            "recomendacao": "Considerar a criação de promoções ou ofertas especiais nessa área para aumentar as vendas.",
+            "urgencia": "esta_semana",
+            "confianca": 0.95
+        },
+        {
+            "id": "INS_002",
+            "categoria": "zona",
+            "titulo": "Zonas com maior tempo de permanência",
+            "observacao": "As zonas Z_E2 e Z_C1 registaram um total de 23 e 30 sequências de clientes, respectivamente.",
+            "implicacao": "Isso pode indicar que essas áreas estão bem projetadas para acomodar os clientes por mais tempo.",
+            "recomendacao": "Considerar a criação de áreas de descanso ou relaxamento nessa área para aumentar o tempo de permanência dos clientes.",
+            "urgencia": "proximo_mes",
+            "confianca": 0.9
+        },
+        {
+            "id": "INS_003",
+            "categoria": "funil",
+            "titulo": "Taxa de conversão do funil",
+            "observacao": "A taxa de conversão do funil é de 10%.",
+            "implicacao": "Isso pode indicar que há oportunidades para melhorar a eficiência do funil e aumentar as vendas.",
+            "recomendacao": "Considerar a criação de campanhas de marketing para melhorar a taxa de conversão do funil.",
+            "urgencia": "imediata",
+            "confianca": 0.95
+        },
+        {
+            "id": "INS_004",
+            "categoria": "anomalia",
+            "titulo": "Anormalidade no fluxo de clientes",
+            "observacao": "A zona Z_CK registrou um total de 53 sequências de clientes, o que é maior do que a média.",
+            "implicacao": "Isso pode indicar que há uma anomalia no fluxo de clientes nessa área.",
+            "recomendacao": "Investigar as causas da anomalia e tomar medidas para corrigi-la.",
+            "urgencia": "esta_semana",
+            "confianca": 0.9
+        },
+        {
+            "id": "INS_005",
+            "categoria": "demografico",
+            "titulo": "Demografia dos clientes",
+            "observacao": "A maioria dos clientes é composta por adultos entre 25 e 45 anos.",
+            "implicacao": "Isso pode indicar que a loja está bem localizada para atender às necessidades desse público-alvo.",
+            "recomendacao": "Considerar a criação de campanhas de marketing direcionadas a esse público-alvo.",
+            "urgencia": "proximo_mes",
+            "confianca": 0.9
+        }
+    ]
+}
